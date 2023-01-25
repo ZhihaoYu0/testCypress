@@ -1,0 +1,27 @@
+{
+  "name": "test-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^12.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhihaoYu0/testCypress.git"
+  },
+  "keywords": [
+    "dek4huq*YKC7amf7jtz"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhihaoYu0/testCypress/issues"
+  },
+  "homepage": "https://github.com/ZhihaoYu0/testCypress#readme"
+}
